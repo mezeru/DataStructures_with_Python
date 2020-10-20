@@ -1,3 +1,7 @@
-# Implementing Data Structures with Python
+# Implementing Data Structures using Nodes with Python
 
-### 1)Linked Lists
+1) Linked Lists
+
+2) Stack
+
+3) Queue
